@@ -1,0 +1,32 @@
+<html>
+    <head>
+        <title>Project on Console</title>
+    </head>
+    <body>
+        <p>
+            Write about visual studio and how to set it up.
+        </p>
+        <p>
+            Write about onsole screen and why it is used,how to open console screen,how to print anything on the console screen.
+        </p>
+        <script>
+            var firstname = "Shagun";
+            console.log(firstname);
+
+            var lastname ="Sarkar";
+            console.log(lastname);
+
+            var fullname = firstname.concat(lastname);
+            console.log(fullname);
+
+            var l1 = fullname.length;
+            console.log(l1);
+
+            var a = 15
+            console.log(a);
+
+            var b = 23;
+            console.log(b);
+        </script>
+    </body>
+</html>
